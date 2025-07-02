@@ -1,0 +1,9 @@
+{
+    "audios": [{
+        "cover": "https://ik.imagekit.io/ably/ghost/prod/2019/05/Screenshot-2019-05-14-at-13.53.46.png?tr=w-1728,q-50",
+        "slug": "json-web-token",
+        "playLink": "/jwt.wav",
+        "title": "JSON Web Token - JWT",
+        "link": "/audio/json-web-token"
+    }]
+}
